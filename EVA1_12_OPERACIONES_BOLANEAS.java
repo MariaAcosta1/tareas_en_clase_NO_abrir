@@ -1,7 +1,7 @@
 
 package eva1_12_operaciones.bolaneas;
 
-public class EVA1_12_OPERACIONESBOLANEAS {
+public class EVA1_12_OPERACIONES_BOLANEAS {
 
     public static void main(String[] args) {
         int radio = 5;//declaro e inicializo
@@ -30,3 +30,4 @@ public class EVA1_12_OPERACIONESBOLANEAS {
     }
     
 }
+
