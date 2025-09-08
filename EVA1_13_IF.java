@@ -16,8 +16,9 @@ public class EVA1_13_IF {
             //AQUI VA LO QUE CORRESPONDE A VERDADERO
             System.out.println("Felicitaciones, acreditaste!!");
         } else {      //SECCIÓN FALSO (opcional)
-            System.out.pritln("Azotes!!");
+            System.out.println("Azotes!!");
         }
     }
     
 }
+
